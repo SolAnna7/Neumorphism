@@ -13,9 +13,30 @@
 #     - tag: AngularJS
 #     - tag: Node
 
+- name: Exploristan Letar
+  descr: "Creating an education software for zSpace in Unity/C# and WPF"
+  tags:
+    - tag: Unity
+    - tag: C#
+    - tag: zSpace
+    - tag: WebGL
+    - tag: WPF
+    - tag: WiX Toolset
+    - tag: Git
+    
+- name: ShapeLab
+  descr: "Working as a C#/Unity developer on this super cool VR sculpting tool."
+  site: https://shapelabvr.com/
+  tags:
+    - tag: Unity
+    - tag: C#
+    - tag: VR
+    - tag: zSpace
+    - tag: Git
+    
 - name: Moby
   descr: "Microservice-based modular insurance system.<br>Medior/Senior Backend Developer position, worked on every part of the project.<br>Specifically took part in developing the communication system, the reporting, the document generation, and plenty of business logic."
-  site: https://www.dbx.hu/en/termekek/moby/
+  site: https://moby-insure.com/
   tags:
     - tag: Java
     - tag: Kotlin
@@ -26,6 +47,7 @@
     - tag: PostgreSQL
     - tag: Reportserver
     - tag: Docker
+    - tag: Git
 
 - name: Kompot
   descr: "Job queue and RPP engine for human use.<BR>Developed for synchron and asynchron communication and data transfer between Moby microservices."
