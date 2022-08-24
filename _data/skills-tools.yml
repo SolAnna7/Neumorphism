@@ -11,11 +11,14 @@
 - name: Intellij Idea
   weight: 4
 
+- name: Visual Studio
+  weight: 4
+
 - name: Rider
   weight: 4
 
 - name: Maven
-  weight: 3
+  weight: 2
 
 - name: Adobe Photoshop
   weight: 2
@@ -25,12 +28,6 @@
 
 - name: Postman
   weight: 3
-
-- name: Leiningen
-  weight: 1
-
-- name: Docker
-  weight: 2
 
 - name: Linux
   weight: 2
