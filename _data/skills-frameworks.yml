@@ -11,6 +11,9 @@
 - name: Spring
   weight: 3
 
+- name: WPF
+  weight: 3
+
 - name: Apache Camel
   weight: 2
 
@@ -18,4 +21,7 @@
   weight: 3
 
 - name: Redis
+  weight: 1
+
+- name: WiX
   weight: 1
