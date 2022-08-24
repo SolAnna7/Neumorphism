@@ -17,26 +17,40 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: DBX Kft.
+- title: Leopoly
+  title-url: https://leopoly.com/
+  date: February 2021 - Present
+  subtitle: Unity Developer
+  tags:
+    - tag: Unity
+    - tag: C#
+    - tag: Virtual Reality
+    - tag: WPF
+    - tag: Git
+  timeline-side: left
+
+- title: DBX
   title-url: https://dbx.hu
-  date: May 2017 - Present
+  date: May 2017 - May 2020
   subtitle: Medior/Senior Software Developer
   tags:
     - tag: Java
     - tag: Clojure
     - tag: Kotlin
+    - tag: Git
     - tag: Spring
     - tag: Hibernate
     - tag: SQL
   timeline-side: right
 
-- title: DBX Kft.
+- title: DBX
   title-url: https://dbx.hu
   date: May 2014 – May 2017
   subtitle: Junior Software Developer
   tags:
     - tag: Java
     - tag: SQL
+    - tag: Git
   timeline-side: right
 
 - title: Budapest University of Technology and Economics
